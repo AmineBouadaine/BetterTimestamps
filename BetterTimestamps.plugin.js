@@ -1,6 +1,6 @@
 /**
  * @name BetterTimestamps
- * @author ._rynox
+ * @author R.ynox
  * @description Shows live relative time (e.g. "3m ago") next to every message timestamp. Updates automatically!
  * @version 1.1.0
  */
