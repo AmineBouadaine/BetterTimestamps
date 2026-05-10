@@ -43,7 +43,7 @@ module.exports = class BetterTimestamps {
         BdApi.UI.showToast("BetterTimestamps disabled.", { type: "info" });
     }
 
-    // ── Helpers ────────────────────────────────────────────────
+    // ( Helpers here ) 
 
     _relative(ts) {
         const diff    = Date.now() - ts;
@@ -107,3 +107,4 @@ module.exports = class BetterTimestamps {
         this._observer.observe(document.body, { childList: true, subtree: true });
     }
 };
+// ty to use my plugn <3
