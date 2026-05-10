@@ -1,3 +1,3 @@
 # BetterTimestamps
 Batter Discord Plugin To See Message Send befor how much
-<img width="350" height="93" alt="image" src="https://github.com/user-attachments/assets/b5709f78-a201-43b0-85ec-237fd015233e" />
+<img width="421" height="77" alt="image" src="https://github.com/user-attachments/assets/5177c29f-9863-42a8-96fe-6d82b1ff9199" />
