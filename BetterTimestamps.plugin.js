@@ -1,9 +1,9 @@
-/**
- * @name BetterTimestamps
- * @author R.ynox
- * @description Shows live relative time (e.g. "3m ago") next to every message timestamp. Updates automatically!
- * @version 1.1.0
- */
+
+  @name BetterTimestamps
+  @author R.ynox
+  @description Shows live relative time (e.g. "3m ago") next to every message timestamp. Updates automatically!
+  @version 1.1.0
+ 
 
 module.exports = class BetterTimestamps {
 
